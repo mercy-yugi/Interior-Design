@@ -1,0 +1,391 @@
+.container1{
+    background-color: rgb(241,241,240);
+    width: auto;
+    height: 500px;
+    gap: 3em;
+}
+.fa-city{
+    color:rgb(103,202,17);
+    margin-left: 60px;
+    margin-top: 30px;
+}
+h3{
+    color: black;
+    margin-top: -16px;
+    margin-left: 30px;
+}
+.fa-location-dot{
+    color: rgb(103,202,17);
+    margin-top: 30px;
+    margin-left: 310px;
+    
+}
+.fa-phone-volume{
+    color: rgb(103,202,17); 
+    margin-left: 30px;
+}
+.fa-envelope{
+    color: rgb(103,202,17);   
+}
+.fa-user{
+    color: rgb(103,202,17);   
+}
+.fa-magnifying-glass{
+    color: rgb(103,202,17);   
+}
+.fa-bars-staggered{
+    color: rgb(103,202,17);   
+}
+h4{
+    color: rgb(139, 134, 134);
+    margin-top: -17px;
+    margin-right: 40px;
+    margin-left: 20px;
+    font-size: 12px;
+    
+}
+#sub-title{
+    color: rgb(103,202,17);  
+    font-weight: bold;
+    font-size: 50px;
+    margin-left: 60px;
+    margin-top: 80px;
+}
+#sub-title2{
+    font-weight: bold;
+    font-size: 90px;
+    margin-left: 60px;
+}
+#body1{
+    margin-left: 60px;
+    margin-top: 15px;
+}
+.designs{
+    width: 160px;
+    height: 46px;
+    background-color: white;
+    border-style: none;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.designs1{
+    width: 160px;
+    height: 46px;
+    background-color: white;
+    border-style: none;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.sub-c2 .imag img{
+    width: 550px;
+    height: 180px;
+    margin-left: 540px; 
+    margin-top: -500px;
+    margin-bottom: 180px;
+}
+.best{
+    width: 550px;
+    height: 180px;
+    background-color: white;
+    margin-left: 540px;
+    margin-top: -150px;
+}
+#best1{
+    font-weight: bold;
+    margin-left: 30px;
+    font-size: 17px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+#stat{
+    margin-left:30px ;
+}
+.best img{
+    width: 200px;
+    height: 110px;
+    margin-left:290px ;
+    margin-top: -170px;
+    padding-top: -30px;
+}
+.our{
+    background-color: black;
+    color: white;
+    width: 70px;
+    height: 40px;
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 60px;
+    margin-top: 30px;   
+    border-style: none;
+}
+#des{
+    margin-left: 140px;
+    margin-top: -36px;
+    font-weight: bold;
+    font-size: 35px;
+    color:rgb(103,202,17);   
+}
+#desc{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.Kichan{
+    display: flex;
+}
+.jikoni img{
+width: 500px;
+height: 360px;
+border-radius: 30px;
+margin-top: 30px;
+margin-left: 60px;
+}
+#kitchen-head{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+#descript{
+    margin-left:40px ;
+    font-size: 18px;
+    color: rgb(30,19,37);
+}
+.see{
+    width: 150px;
+    height: 45px;
+    margin-left: 40px;
+    color: white;
+    background-color: black;
+    border-style: none;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: large;
+}
+.container3{
+    background-image: url(/images/Royall\ Room-1.jpg);
+    height: 900px;
+    
+
+}
+
+.our1{
+    background-color: black;
+    color: white;
+    width: 70px;
+    height: 40px;
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 60px;
+    margin-top: 30px;   
+    border-style: none;
+    
+}
+#des1{
+    margin-left: 140px;
+    margin-top: -36px;
+    font-weight: bold;
+    font-size: 35px;
+    color:rgb(103,202,17);   
+}
+.overlay{
+    background-color:rgba(250, 248, 252, 0.397) ;
+}
+ul li{
+    list-style-type: none;
+    display: inline-flex;
+    margin-left: 50px;
+}
+.bdy{
+    display: flex;
+}
+#bodyyy2{
+    margin-left: 200px;
+ margin-top: 35px;
+}
+#first img{
+    width: 700px;
+    height: 500px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+#second img{
+    width: 580px;
+    height: 400px;
+    margin-left: 450px;
+    margin-top: -200px;
+    margin-bottom: 65px;
+}
+#head2{
+    color:rgb(103,202,17);  
+    margin-top: -250px;  
+    margin-left: 70px;
+    font-size: larger;
+}
+#body3{
+    margin-left: 70px;
+    
+}
+.see1{
+    width: 150px;
+    height: 45px;
+    margin-left: 70px;
+    color: white;
+    background-color: black;
+    border-style: none;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: large;
+    margin-bottom: 37px;
+}
+#title{
+    color: rgb(103,202,17);  
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 80px;
+
+}
+#title span{
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+}
+hr{
+    width: 240px;
+}
+.box{
+    display: flex;
+    margin-left: 60px;
+    margin-top: 90px;
+    margin-bottom: 60px;
+}
+.box1{
+    width: 500px;
+    height: 150px;
+    background-color: white;
+    box-shadow: rgb(243, 240, 240) 10px 0px 10px 10px;
+
+}
+.box2{
+    width: 500px;
+    height: 150px;
+    background-color: white;
+    margin-left: 30px;
+    box-shadow: rgb(243, 240, 240) 10px 0px 10px 10px;
+}
+.fa-quote-left{
+    margin-left: 240px;
+    font-size: 40px;
+    margin-top: 20px;
+    color: grey;
+}
+#bod1{
+    margin-left: 50px;
+    font-size: large;
+}
+.line{
+    background-color: rgb(103,202,17);  
+    width: 500px;
+    height: 12px;
+    margin-top: 18px;
+}
+.container5{
+    background-image: url(/images/green.JPG);
+    height: 700px;
+}
+#name{
+        width: 400px;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        box-sizing: border-box;
+        resize: vertical;
+}
+.main-main{
+    margin-top: 30px;
+}
+
+  .container {  
+      padding: 50px;  
+    background-color: rgb(212,212,212); 
+    width: 500px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+  }  
+    
+  input[type=text], input[type=password], textarea {  
+    width: 400px;  
+    padding: 15px;  
+    margin: 5px 20px 22px 20px;  
+    display: inline-block;  
+    border-radius: 10px;  
+    border-style: none;
+    background: #f1f1f1;  
+  }  
+textarea{
+    height:90px;
+}
+input[type=submit] {
+    background-color: rgb(103,202,17);  
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border-style: none;
+    cursor: pointer;
+    margin-left: 20px;
+  }
+  #title2{
+    color: white; 
+    font-weight: bold;
+    font-size: 35px;
+    margin-left: 70px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .mapouter{
+      margin-left: 500px;
+      margin-top: -550px;
+      padding-bottom: 74px;
+  }
+  .container6{
+      background-color: rgb(30,30,30);
+      width: auto;
+      height: 500px;
+  }
+  #news{
+      color: white;
+      font-weight: bold;
+      font-size: 35px;
+      text-align: center;
+      padding-top: 90px;
+  }
+  .email{
+      width: 900px;
+      height: 65px;
+      margin-left: 120px;
+      border-radius: 30px;
+      border-style: none;
+      margin-top: 40px;
+      background-color: rgb(212,212,212); 
+  }
+  .subs{
+      background-color:  rgb(103,202,17);  
+      width: 200px;
+      height: 66px;
+      margin-left: 694px;
+      border-top-right-radius: 30px;
+      border-bottom-right-radius: 30px;
+      margin-top: -39.5px;
+      text-align: center;
+  }
+  .subs #sub{
+      color: white;
+      padding-top: 25px;
+      font-weight: bold;
+  }
+  .email #email{
+      margin-left: -700px;
+      padding-top: 23px;
+  }
